@@ -2,15 +2,15 @@
 
 I'm an **Aspiring Electrical Engineer** passionate about low-level systems, bootloaders, and kernel hacking
 
-## 📡 Connect With Me
+## 💬 Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/174591895417126912)](https://discord.com/users/id/174591895417126912)
 
 ### 📬 Contact
-- ✉️ **Email:** `icyllite(at)icloud.com` 
+- ✉️ **Email:** `icyllite@waifu.club` 
 - 🔐 **PGP/GPG Key:** 
   ```bash
-  2718 fd7d 3cb8 53f6 163a e9fb 1a2d 39bc 9017 aaec
+  27E2 868A 67DF 21F0 747A 2361 0972 594C 0FDD 068E
   ```
 
 
